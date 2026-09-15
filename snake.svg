@@ -54,27 +54,30 @@
     <line x1="10" y1="370" x2="610" y2="370"/>
   </g>
   <rect x="8" y="8" width="604" height="364" fill="none" stroke="#fb923c" stroke-width="2" rx="4"/>
-  <g transform="translate(100, 60)">
+  <g transform="translate(420, 60)">
     <circle r="7.6" fill="#ef4444" filter="url(#glow)"/>
     <path d="M0,-7.0 Q-1.6,-9.0 1.0,-11.0" stroke="#8b5e3c" stroke-width="2" fill="none" stroke-linecap="round"/>
     <ellipse cx="2.0" cy="-9.0" rx="2.4" ry="1.2" fill="#34d399" transform="rotate(-30)"/>
   </g>
   <g>
-    <rect x="72" y="32" width="16" height="16" rx="8" fill="#22d3ee"/>
-    <rect x="92" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="112" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="132" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="152" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="172" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="192" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="212" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="232" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="252" y="32" width="16" height="16" rx="8" fill="#0ea5c7"/>
-    <rect x="272" y="32" width="16" height="16" rx="8" fill="#0891b2"/>
-    <circle cx="83.6" cy="37.6" r="1.4000000000000001" fill="#050a10"/>
-    <circle cx="84.6" cy="37.6" r="0.6" fill="#fff"/>
-    <circle cx="83.6" cy="42.4" r="1.4000000000000001" fill="#050a10"/>
-    <circle cx="84.6" cy="42.4" r="0.6" fill="#fff"/>
+    <rect x="272" y="52" width="16" height="16" rx="8" fill="#22d3ee"/>
+    <rect x="252" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="232" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="212" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="192" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="172" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="152" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="132" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="112" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="92" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="72" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="52" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="32" y="52" width="16" height="16" rx="8" fill="#0ea5c7"/>
+    <rect x="32" y="52" width="16" height="16" rx="8" fill="#0891b2"/>
+    <circle cx="283.6" cy="57.6" r="1.4000000000000001" fill="#050a10"/>
+    <circle cx="282.6" cy="57.6" r="0.6" fill="#fff"/>
+    <circle cx="283.6" cy="62.4" r="1.4000000000000001" fill="#050a10"/>
+    <circle cx="282.6" cy="62.4" r="0.6" fill="#fff"/>
   </g>
   <defs>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
